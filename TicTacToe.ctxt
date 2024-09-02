@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=depth\ turn
+comment10.target=int\ minimax(int,\ int)
+comment2.params=
+comment2.target=int\ checkWinner()
+comment3.params=
+comment3.target=void\ printGameBoard()
+comment4.params=
+comment4.target=void\ initialiseBoard()
+comment5.params=pos
+comment5.target=boolean\ undoMove(java.lang.Integer)
+comment6.params=pos\ user
+comment6.target=void\ placeMove(int,\ int)
+comment7.params=row\ column
+comment7.target=java.lang.Integer\ getPosition(int,\ int)
+comment8.params=conditionNum
+comment8.target=MyLinkedList\ getWinConditions(int)
+comment9.params=
+comment9.target=MyLinkedList\ getAvailableCells()
+numComments=11

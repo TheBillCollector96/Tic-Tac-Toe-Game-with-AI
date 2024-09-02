@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MyLinkedList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyLinkedList\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyLinkedList()
+comment10.params=
+comment10.target=void\ clearList()
+comment11.params=
+comment11.target=boolean\ isEmpty()
+comment2.params=item
+comment2.target=void\ prepend(java.lang.Object)
+comment3.params=item
+comment3.target=void\ append(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ getLast()
+comment5.params=index
+comment5.target=java.lang.Object\ get(int)
+comment6.params=item
+comment6.target=boolean\ contains(java.lang.Object)
+comment7.params=paramList
+comment7.target=boolean\ checkWin(MyLinkedList)
+comment8.params=item
+comment8.target=boolean\ delete(java.lang.Object)
+comment9.params=
+comment9.target=int\ getSize()
+numComments=12
